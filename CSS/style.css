@@ -1,0 +1,138 @@
+/*font-family:'oswald',droidSans,droidSerif;*/
+html, body {
+ margin: 0;
+ padding: 0;
+ color: grey;
+ }
+body {
+
+    font-family: oswald, droidSans, droidSerif;
+
+}
+   
+header.menu{
+background:url(../IMG/grille.png);
+background-size:auto;
+
+}
+.left{
+    margin:0 10px 0 500px;
+
+}
+.container{
+font-size:small;
+}
+#mainmenu {
+    width: 900px;
+    height: 25px;
+    clear: both;
+    float: right;
+    margin-right: 10%;
+    display: flex;
+}
+.h{
+
+   font-size:small;
+}
+.hotel{
+    text-decoration: none;
+    margin-left: 1%;
+    color: grey;
+    margin-top: 0%;
+    
+}
+.resto{
+    text-decoration: none;
+    margin-left: 1%;
+    color: grey;
+    margin-top: 0%;
+}
+.service{
+    text-decoration: none;
+    margin-left: 1%;
+    color: grey;
+    margin-top: 0%;
+}
+.activite{
+    text-decoration: none;
+    margin-left: 1%;
+    color: grey;
+    margin-top: 0%;
+}
+.plus{
+    text-decoration: none;
+    margin-left: 1%;
+    color: grey;
+    margin-top: 0%;
+}
+.video{
+    position: center;
+    margin-left:30%;
+  
+}
+#slogan{
+    margin-right: 2%;
+    text-align: center;
+    background:url(../IMG/grille.png);
+    background-size:auto;
+}
+.body{
+    display: flex;
+  margin-left: 28%;
+  font-family: droidSans;
+}
+.golf{
+    border: 1%;
+    color: grey;
+}
+.activite{
+    margin-left: 2%;
+}
+.comms{
+    margin-left: 2%;
+}
+.footer{
+    text-decoration: none;
+    margin-left: 1%;
+    color: grey;
+}
+.row{
+    text-align: center;
+    margin-right: 30%;
+}
+.mainfoo{
+    display: flex;
+    background:url(../IMG/grille.png);
+    background-size:auto;
+    font-size:small;
+  
+}
+.cont{
+    display: block;
+    text-align: center;
+    padding: 1%;
+    margin-left: 28%;
+}
+.db{
+    display: block;
+    text-align: center;
+    padding: 1%;
+  
+}
+.dc{
+    display: block;
+    text-align: center;
+    padding: 1%;
+  
+}
+.blabla{
+    display: block;
+    text-align: center;
+    padding: 1%;
+  
+}
+.social{
+    display: flex;
+    margin-left: 110%;
+}
+
